@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/meesho-clone/static/css/main.fbb5ddd5.css",
+    "main.js": "/meesho-clone/static/js/main.ded3ca8e.js",
+    "static/js/787.3dce9a58.chunk.js": "/meesho-clone/static/js/787.3dce9a58.chunk.js",
+    "static/media/img1.png": "/meesho-clone/static/media/img1.ff9a48687c290006050d.png",
+    "static/media/img2.png": "/meesho-clone/static/media/img2.9e4778373c0ad7fc1ced.png",
+    "static/media/img3.png": "/meesho-clone/static/media/img3.c974ef6a6a38076fb91c.png",
+    "static/media/img4.png": "/meesho-clone/static/media/img4.adde7bd02668b7d4e9e3.png",
+    "static/media/rating.png": "/meesho-clone/static/media/rating.d2fd008c1fb1cba52971.png",
+    "index.html": "/meesho-clone/index.html",
+    "main.fbb5ddd5.css.map": "/meesho-clone/static/css/main.fbb5ddd5.css.map",
+    "main.ded3ca8e.js.map": "/meesho-clone/static/js/main.ded3ca8e.js.map",
+    "787.3dce9a58.chunk.js.map": "/meesho-clone/static/js/787.3dce9a58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbb5ddd5.css",
+    "static/js/main.ded3ca8e.js"
+  ]
+}
